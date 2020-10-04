@@ -1,0 +1,15 @@
+{
+    "account01":
+    {       
+        "name":"test01",
+        "strength":10,
+        "intelligence":10,
+        "agile":10,
+        "power":10,
+        "spirit":10,
+        "charm":10,
+        "Inventory":10,
+        "equipment":10,
+        "location":["初始之地",0,0]
+    }
+}
